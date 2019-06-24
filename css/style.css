@@ -4,7 +4,7 @@
 }
 
 .bgimage{
-	background-image: url('/home/cgi/Downloads/Assignment/tt.jpg');
+	background-image: url('/home/cgi/Downloads/Assignment/img/tt.jpg');
 	background-size: 100% 110%;
 	background-size: 100% 110%;
 	width: 100%;
@@ -131,7 +131,7 @@ div.footer Copyrights{
 }
 
 .social{
-width: 80px;
+width: 200px;
 height: 100px;
  margin: auto;
  float: center;
@@ -142,7 +142,7 @@ div.article {
 
   margin: auto;
   padding: 10px;
-  background-color: orange;
+  background-color: white;
 }
 
 div.article1{
@@ -170,7 +170,14 @@ div.article1{
   vertical-align: middle;
 }
 
-.body{
+body{
+	background-color: orange;
 
-	background-color: gray;
+	
+}
+
+.img1{
+
+	width: 35px;
+	height: 30px;
 }
